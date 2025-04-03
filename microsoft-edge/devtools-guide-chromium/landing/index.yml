@@ -167,9 +167,6 @@ landingContent:
           - text: Fix memory problems
             url: ../memory-problems/index.md
 
-          - text: Debug DOM memory leaks by using the Detached Elements tool
-            url: ../memory-problems/dom-leaks.md
-
           - text: Understand security issues using the Security tool
             url: ../security/index.md
 
@@ -196,7 +193,7 @@ landingContent:
       - linkListType: how-to-guide
         links:
           - text: Performance features reference
-            url: ../evaluate-performance/reference.md
+            url: ../performance/reference.md
       - linkListType: sample
         links:
           - text: Sample code for DevTools
